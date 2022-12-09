@@ -11,7 +11,7 @@ let cantidad=numeros.length
 let pares=0
 let inpares=0
 let num, num2
-
+console.log(numeros);
   for (var i = 0; i <= numeros.length; i++) {
     if (numeros[i]%2===0&&numeros[i]!==0) {
        pares++

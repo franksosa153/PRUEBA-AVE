@@ -33,7 +33,7 @@ async function todosLosPokemones(id){
       
   });
 }
-console.log(nom);
+console.log(pokemonId);
 
 
 

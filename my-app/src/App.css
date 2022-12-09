@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.contenedorImagenes{
+  width: 100vw;
+  display: flex;
+  height: 100vh;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
